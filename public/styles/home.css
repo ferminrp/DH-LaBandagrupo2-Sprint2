@@ -83,3 +83,49 @@ a {
 .windsurf {
     background-image: url('/images/home/windsurf.jpg');
 }
+
+
+/* Indice de Categproas */
+
+.index {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.category-index {
+    width: 200px;
+    margin: 10px;
+}
+
+
+.category-index ul {
+    list-style-type:none;
+    padding-left: 0px;
+}
+
+/* Footer */
+
+footer {
+    background-color: var(--footer-gray);
+    padding: 30px;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer-left ul {
+    list-style-type:none;
+    padding-left: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.footer-right a {
+    margin-left: 10px;
+}
