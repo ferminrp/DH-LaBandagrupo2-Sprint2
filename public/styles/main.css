@@ -32,6 +32,11 @@ header {
     display: flex;
 }
 
+.fa-shopping-cart {
+    line-height: 45px;
+    margin-right: 10px;
+}
+
 .header-right {
     display: flex;
 }
