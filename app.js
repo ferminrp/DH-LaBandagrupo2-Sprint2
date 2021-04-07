@@ -27,5 +27,5 @@ app.get('/carrito', (req, res) => {
 
 
 app.listen(port || 3000, () => {
-    console.log('Vamo arribaaaa neneeee 🤟      Mandale mecha al puerto '+ port);
+    console.log('Vamo arribaaaa neneeee 🤟      Mandale mecha al puerto 3000');
 });
