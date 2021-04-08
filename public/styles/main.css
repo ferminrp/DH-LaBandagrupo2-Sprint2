@@ -119,20 +119,20 @@ button:hover {
     background-color: royalblue;
 }
 
-@media screen and(max-width: 600px) {
+@media screen and (max-width: 600px) {
     .header-right ul,
     .avatar {
         display: none;
     }
 }
 
-@media screen and(max-width: 450px) {
+@media screen and (max-width: 450px) {
     .header-left {
         display: none;
     }
 }
 
-@media screen and(min-width: 601px) {
+@media screen and (min-width: 601px) {
     .fa-bars {
         display: none;
     }
