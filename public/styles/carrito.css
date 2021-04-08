@@ -15,12 +15,15 @@ header {
 .volandoalto {
    width: 100%;
 }
+
+main {
+    max-width: 90%;
+    margin: auto;
+}
+
 .titulocart {
+    font-size: 2rem;
     display: flex;
-    border-color: black;
-    border-width: 1px;
-    border-style: solid;
-    margin-left: 10%;
     align-items: center;
 }
 .sub-titulos-container{
@@ -40,8 +43,7 @@ header {
 }
 
 .producto{
-    width: 90%;
-    margin: auto;
+    width: 100%;
     border-top: black;
     border-style: solid;
     border-left: none;
@@ -93,42 +95,48 @@ header {
     margin-right: 30%;
 }
 
-.botones-de-accion{
-    background-color: rgba(106,184,212,255);
-    border-radius: 3px;
-    border: none;
+.container-botones button, .container-seguircomprando button {
+    max-width: 200px;
+}
+
+.container-botones button {
+    margin: 10px;
+}
+
+.container-seguircomprando {
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px;
 }
 
 .total-compra{
     margin-left: 70%;
 }
 
-.botones-de-accion2 {
-    background-color: rgba(106,184,212,255);
-    border-radius: 3px;
-    border: none;
-    margin-top: 60px;
-    margin-bottom: 30px;
-    height: 35px;
-    margin-left:70% ;
-    
-}
-.container-seguircomprando {
-    display: flex;
-    justify-content:right;
 
-}
 
 
 @media screen and (max-width: 600px){
      .avatar, .main-navbar {
         display:none;
     }
+    .total-compra {
+        margin-left: 10px;
+        margin-top: 50px;
+        font-weight: bold;
+    }
+
+    .container-botones {
+        margin-right: 0%;
+    }
 }
 
 @media screen and (max-width: 450px){
     .header-left {
         display:none;
+    }
+    .container-seguircomprando button {
+        max-width: 100%;
     }
 }
 
