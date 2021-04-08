@@ -2,7 +2,7 @@
 
 **Integrantes:** [@ferminrp](https://github.com/ferminrp/), [@PedroSzyk](https://github.com/PedroSzyk/), [@santiagoane](https://github.com/santiagoane/), [@Joacoaldun](https://github.com/Joacoaldun/)
 
-
+Trello: https://trello.com/b/oBFdc0sQ/wave-runners
 
 **Descripción de la oferta de productos:**
 
@@ -26,8 +26,11 @@ Vamos a ofrecerle todos los equipos que el deportista necesita para poder realiz
 **Descripción integrantes del equipo:**
 
 Fermin: 24 años, Administrador de Empresas. Fan de la birra.
+
 Pedro: 25 años, Empleado de comercio.  Gamer.
+
 Joaco: 28 años, Empleado de comercio. Hincha de River.
+
 Santi: 28 años,  Contador, emprendedor. Kitero. 
 
 **Referentes en distintos mercados:**
