@@ -1,3 +1,7 @@
+header {
+    box-shadow: 0px 0px;
+}
+
 
 .main-navbar{
     display: flex;
@@ -35,7 +39,7 @@
     margin-left:0px;
 }
 
-.producto1,.producto2,.producto3{
+.producto{
     width: 90%;
     margin: auto;
     border-top: black;
